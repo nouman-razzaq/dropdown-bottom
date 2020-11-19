@@ -1,6 +1,4 @@
 # dropdown_button
-<<<<<<< HEAD
-=======
 
 A new Flutter application.
 
